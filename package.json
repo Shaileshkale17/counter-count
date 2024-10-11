@@ -1,0 +1,22 @@
+{
+  "name": "counter-count",
+  "version": "2.0.0",
+  "description": "is a counter-count ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shaileshkale17/counter-count.git"
+  },
+  "keywords": [
+    "counter-count"
+  ],
+  "author": "shailesh kale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shaileshkale17/counter-count/issues"
+  },
+  "homepage": "https://github.com/Shaileshkale17/counter-count#readme"
+}
